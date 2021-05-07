@@ -1,2 +1,2 @@
 # ExtJs
-#index click 
+#index.html click 
