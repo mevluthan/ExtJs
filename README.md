@@ -1,2 +1,2 @@
 # ExtJs
-#index.html click 
+#veri tabansız ve ajaxsız
